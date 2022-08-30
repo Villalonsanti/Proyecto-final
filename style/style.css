@@ -1,0 +1,48 @@
+.fondonav{
+    background-color: brown !important;
+
+}
+.logo{
+    width: 150px; 
+    display: flex;
+    align-items: center;
+}
+.carousel-foto1{
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+}
+.todascard{
+    background-color: brown;
+    align-items: center;
+    justify-content: center;
+    
+}
+.footer{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.productos{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+.cartasdeproducto{
+   background-color: brown;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    align-items: center; 
+}
+.formulario{
+    background-color: aqua;
+    display: flex;
+ 
+}
